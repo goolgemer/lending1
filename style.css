@@ -74,7 +74,7 @@ main {
     rgba(253, 103, 0, 1) 0%,
     rgba(255, 203, 0, 1) 100%
   );
-  width: 47%;
+  width: fit-content;
   min-width: 298px;
   border-radius: 20px;
   display: flex;
